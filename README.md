@@ -39,8 +39,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fatima-ezzahra-kannoufa-9b5ba9225/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:fatimaezzahra.kannoufa@edu.uca.ma"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/fatimaezzahra.kannoufa"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fatima-ezzahra-kannoufa-9b5ba9225/"><img src="https://img.shields.io/badge/-Fatima%20ezzahra%20Kannoufa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:fatimaezzahra.kannoufa@edu.uca.ma"><img src="https://img.shields.io/badge/-fatimaezzahra.kannoufa@edu.uca.ma-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/fatimaezzahra.kannoufa"><img src="https://img.shields.io/badge/-Fatima ezzahra Kannoufa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
