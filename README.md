@@ -30,7 +30,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/kannoufa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kannoufa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kannoufa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -41,6 +41,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/fatima-ezzahra-kannoufa-9b5ba9225/"><img src="https://img.shields.io/badge/-Fatima%20ezzahra%20Kannoufa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:fatimaezzahra.kannoufa@edu.uca.ma"><img src="https://img.shields.io/badge/-fatimaezzahra.kannoufa@edu.uca.ma-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/fatimaezzahra.kannoufa"><img src="https://img.shields.io/badge/-Fatima ezzahra Kannoufa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
